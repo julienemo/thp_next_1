@@ -27,4 +27,4 @@ let letterIsSolo = (letter, word) => {
     console.log("null")
   }
   
-  firstSoloLetter(prompt("Entrez un mot"))
+firstSoloLetter(prompt("Entrez un mot"))
